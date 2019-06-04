@@ -1,0 +1,21 @@
+@font-face{
+	font-family: 'SofiaPro';
+	src: url('../fonts/SofiaProLight.woff');
+	font-weight: 300;
+}
+@font-face{
+	font-family: 'SofiaPro';
+	src: url('../fonts/SofiaProRegular.woff');
+	font-weight: 400;
+}
+@font-face{
+	font-family: 'SofiaPro';
+	src: url('../fonts/SofiaProMedium.woff');
+	font-weight: 700;
+}
+@font-face{
+	font-family: 'SofiaPro';
+	src: url('../fonts/SofiaProBold.woff');
+	font-weight: 900;
+}
+
